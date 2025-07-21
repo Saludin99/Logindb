@@ -11,6 +11,17 @@
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }
+    "allowOffline": fals
+  },
+  
+  {
+    "id": "614dc7f07b7653c2",
+    "username": "pulodadu",
+    "password": "pass123",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
 ]
+
+
+
